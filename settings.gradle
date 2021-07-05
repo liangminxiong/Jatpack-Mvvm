@@ -1,2 +1,3 @@
 rootProject.name = "Jatpack-Mvvm"
 include ':app'
+include ':lib_widget'
